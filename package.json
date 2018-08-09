@@ -1,0 +1,19 @@
+{
+  "name": "macvoice",
+  "version": "0.0.1",
+  "description": "Electron voice assistant with Python backend",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keegan Lawley",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^2.0.7",
+    "python-shell": "^0.5.0"
+  },
+  "devDependencies": {
+    "electron-packager": "^12.1.0"
+  }
+}
