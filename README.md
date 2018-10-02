@@ -1,4 +1,4 @@
 # Mac-Voice
 Electron Based Siri clone for MacOS
 
-Pulling from https://github.com/jg-fisher/desktopAssistant and porting to Electron to run as an app and integrate more commands
+Inspired by https://github.com/jg-fisher/desktopAssistant and porting to Electron to run as an app and integrate more commands
